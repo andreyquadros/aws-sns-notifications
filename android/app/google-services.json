@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521822397146",
+    "project_id": "flutter-aws-notifications",
+    "storage_bucket": "flutter-aws-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521822397146:android:af4c0142f4d8408b027be3",
+        "android_client_info": {
+          "package_name": "br.com.andrey.quadros.aws.notifcation.flutter_aws_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCZ3P_goMeJVv7Qsi6BQGIv4lglbbc_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

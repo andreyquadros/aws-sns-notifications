@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
         elevation: 5,
         centerTitle: true,
         backgroundColor: Colors.blue,
-        title: Text('Using AWS SNS Notification', style: TextStyle(color: Colors.white),),
+        title: Text('Using One Signal Notification', style: TextStyle(color: Colors.white),),
       ),
     );
   }
